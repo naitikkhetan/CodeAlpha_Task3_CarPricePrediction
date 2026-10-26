@@ -34,3 +34,4 @@ R² Score
 
 #Conclusion
 The model successfully predicts car prices and demonstrates the practical application of machine learning in the automobile industry.
+<img src="Screenshot 2026-10-26 201344.png" alt="App Screenshot" width="600"/>
